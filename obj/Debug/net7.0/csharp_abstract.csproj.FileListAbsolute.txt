@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp_abstract/bin/Debug/net7.0/csharp_abstract
+/home/matheus/Projetos/csharp_abstract/bin/Debug/net7.0/csharp_abstract.deps.json
+/home/matheus/Projetos/csharp_abstract/bin/Debug/net7.0/csharp_abstract.runtimeconfig.json
+/home/matheus/Projetos/csharp_abstract/bin/Debug/net7.0/csharp_abstract.dll
+/home/matheus/Projetos/csharp_abstract/bin/Debug/net7.0/csharp_abstract.pdb
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.AssemblyInfo.cs
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.dll
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/refint/csharp_abstract.dll
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.pdb
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/csharp_abstract.genruntimeconfig.cache
+/home/matheus/Projetos/csharp_abstract/obj/Debug/net7.0/ref/csharp_abstract.dll
